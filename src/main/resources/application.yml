@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active:
+    - prod
+
+# 테스트시 dev 모드로 실행
